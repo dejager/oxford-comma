@@ -1,2 +1,3 @@
 # oxford-comma
-Lil' Jon, he always tells the truth.
+
+A simple loading indicator animation rendered with Metal.
